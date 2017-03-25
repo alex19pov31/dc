@@ -2,7 +2,7 @@
     "name": "alex19pov31/dc",
     "description": "Data cache in document collection",
     "type": "library",
-    "version": "1.0.2-stable",
+    "version": "1.0.3-stable",
     "require": {
         "mongodb/mongodb": "^1.1",
         "elasticsearch/elasticsearch": "^5.1"
