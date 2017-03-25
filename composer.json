@@ -1,0 +1,22 @@
+{
+    "name": "alex19pov31/dc",
+    "description": "Data cache in document collection",
+    "type": "library",
+    "version": "0.0.1",
+    "require": {
+        "mongodb/mongodb": "^1.1",
+        "elasticsearch/elasticsearch": "^5.1"
+    },
+    "license": "MIT",
+    "autoload": {
+      "psr-4": {
+        "DC\\": "src/"
+      }
+    },
+    "authors": [
+        {
+            "name": "Nesterov Alexander",
+            "email": "alex19pov31@gmail.com"
+        }
+    ]
+}
